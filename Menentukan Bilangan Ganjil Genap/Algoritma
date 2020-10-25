@@ -1,0 +1,9 @@
+Deklarasi
+  x : integer
+Algoritma
+  Input (x)
+  If x mod 2 = 0 then
+		Output = “genap”
+  Else
+		Output = “ganjil”
+  Endif
