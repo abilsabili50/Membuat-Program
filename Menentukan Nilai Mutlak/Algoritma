@@ -1,0 +1,9 @@
+Deklarasi
+  x : integer
+Algoritma
+	Input (x)
+	If x > 0 then
+		Output (‘x’)
+	Else
+    Output (‘x * -1’)
+	Endif 
