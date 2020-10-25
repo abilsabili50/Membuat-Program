@@ -1,0 +1,17 @@
+Deklarasi
+  x : char
+Algoritma
+  Input (x)
+  If x = a then
+ 		Output = “huruf vokal”
+  Else if x = i then
+		Output = “huruf vokal”
+  Else if x = u then
+		Output = “huruf vokal”
+  Else if x = e then
+		Output = “huruf vokal”
+  Else if x = o then
+		Output = “huruf vokal”
+  Else 
+		Output = “huruf konsonan”
+  Endif
