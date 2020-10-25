@@ -1,0 +1,13 @@
+Deklarasi
+  a : integer
+  b : integer
+Algoritma
+	Input (a)
+	Input (b)
+	If a > b then
+		Output (‘nilai terbesar adalah a’)
+	Else if a < b then
+		Output (‘nilai terbesar adalah b’)
+	Else
+		Output (‘kedua nilai sama’)
+	Endif
