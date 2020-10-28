@@ -1,0 +1,9 @@
+Deklarasi
+  x : integer
+Algoritma
+  Input (x)
+  If x < 48 then
+  Output (‘upah karyawan tersebut per mingguannya adalah x * 2000 rupiah’)
+	Else
+  Output (‘upah karyawan tersebut per mingguannya adalah x * 3000 rupiah’)
+	Endif
