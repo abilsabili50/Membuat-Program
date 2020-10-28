@@ -1,0 +1,17 @@
+Deklarasi
+  a : integer
+  b : integer
+  c : integer
+  terbesar : string
+Algoritma
+	Input (a)
+	Input (b)
+	Input (c)
+	Set a = terbesar
+	If b > terbesar then
+		b = terbesar
+  Endif
+	If c > terbesar then
+		c = terbesar
+	Endif
+	Output (‘terbesar’)
