@@ -1,0 +1,11 @@
+Deklarasi
+  x : integer
+Algoritma
+	Input (x)
+	If x mod 4 = 0; x mod 100 != 0 then
+		Output (‘merupakan tahun kabisat’)
+	Else if x mod 400 = 0 then
+		Output (‘merupakan tahun kabisat’)
+	Else
+		Output (‘bukan merupakan tahun kabisat’)
+	Endif
