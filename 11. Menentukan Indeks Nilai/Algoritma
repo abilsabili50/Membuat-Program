@@ -1,0 +1,17 @@
+Deklarasi
+  x : integer
+Algoritma
+	Input (x)
+	If 80<=x<=100 then
+		Output (‘indeks nilai = A’)
+	Else if 70<=x<80 then
+		Output (‘indeks nilai = B’)
+	Else if 55<=x<70 then
+		Output (‘indeks nilai = C’)
+	Else if 40<=x<55 then
+		Output (‘indeks nilai = D’)
+	Else if 0<=x<40 then
+		Output (‘indeks nilai = E’)
+	Else
+		Output (‘nilai yang anda masukkan salah’)
+	Endif
