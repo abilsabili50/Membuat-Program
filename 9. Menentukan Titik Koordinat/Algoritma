@@ -1,0 +1,17 @@
+Deklarasi
+  x : float
+  y : float
+Algoritma
+	Input (x)
+	Input (y)
+	If x>0; y>0 then
+		Output (‘titik tersebut berada di kuadran 1’)
+	Else if x<0; y>0 then
+		Output (‘titik tersebut berada di kuadran 2’)
+	Else if x<0; y<0 then
+		Output (‘titik tersebut berada di kuadran 3’)
+	Else if x>0; y<0 then
+		Output (‘titik tersebut berada di kuadran 4’)
+	Else
+		Output (‘titik tersebut merupakan titik (0,0)’)
+	Endif
