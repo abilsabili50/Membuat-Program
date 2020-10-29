@@ -1,0 +1,41 @@
+Deklarasi
+  x : char
+  y : integer
+  
+Algoritma
+	Input (x)
+	If x = a
+		Input (y)
+		If y > 48
+			Output (‘(y - 48) * 3000 + 48 * 4000’)
+		Else
+			Output (‘y * 4000’)
+		Endif
+      
+	Else if x = b
+		Input (y)
+		If y > 4
+			Output (‘(y - 48) * 3000 + 48 * 5000’)
+		Else
+			Output (‘y * 5000’)
+		Endif
+      
+	Else if x = c
+		Input (y)
+		If y > 48
+			Output (‘(y - 48) * 3000 + 48 * 6000’)
+		Else
+			Output (‘y * 6000’)
+		Endif
+      
+	Else if x = d
+		Input (y)
+		If y > 48
+			Output (‘(y - 48) * 3000 + 48 * 7500’)
+		Else
+			Output (‘y * 7500’)
+		Endif
+      
+	Else
+		Output (‘golongan tersebut tidak ada’)
+	Endif
