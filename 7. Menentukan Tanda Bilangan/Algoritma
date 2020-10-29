@@ -1,0 +1,11 @@
+Deklarasi
+  a : integer
+Algoritma
+	Input (a)
+	If a > 0 then
+		Output (‘merupakan bilangan positif’)
+	Else if a = 0 then
+		Output (‘merupakan bilangan nol’)
+	Else
+		Output (‘merupakan bilangan negatif’)
+	Endif
